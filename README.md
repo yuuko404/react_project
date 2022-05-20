@@ -48,13 +48,13 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## git 常用命令
 
-git init
-git config --list
-git config --global user.name "xxxx"
-git config --global user.email "xxxx"
-git remote add origin https://key@github.com/x/xxxxxxx.git 
-git remote rm origin 删除旧的remote url
-git branch -M develop   建立本地分支
-rm -rf .git 删除本地关联git
-git push --set-upstream origin develop   推送到远端制定分支
-git checkout -b xxxx origin/xxxx 拉取远端仓库到本地切换到该分支
+git init.\
+git config --list.\
+git config --global user.name "xxxx".\
+git config --global user.email "xxxx".\
+git remote add origin https://key@github.com/x/xxxxxxx.git .\
+git remote rm origin 删除旧的remote url.\
+git branch -M develop   建立本地分支.\
+rm -rf .git 删除本地关联git.\
+git push --set-upstream origin develop   推送到远端制定分支.\
+git checkout -b xxxx origin/xxxx 拉取远端仓库到本地切换到该分支.\
