@@ -1,3 +1,3 @@
 export const PjList = () => {
-    return <table></table>
-}
+  return <table></table>;
+};

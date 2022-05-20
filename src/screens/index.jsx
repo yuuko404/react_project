@@ -1,6 +1,8 @@
 export const ProjectList = () => {
-    return <div>
-        <SearchPanel></SearchPanel>
-        <ProjectList></ProjectList>
+  return (
+    <div>
+      <SearchPanel></SearchPanel>
+      <ProjectList></ProjectList>
     </div>
-}
+  );
+};
